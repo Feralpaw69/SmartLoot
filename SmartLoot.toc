@@ -1,0 +1,18 @@
+## Interface: 30300
+## Title: |cff7fb2ffSmart|rLoot |cff888888(by feralpaw)|r
+## Notes: Replaces the Blizzard loot window and loot roll frames, with a loot history (/loot) for every raid and dungeon.
+## Author: feralpaw
+## Version: 1.6
+## SavedVariables: SmartLootDB, SmartLootHistoryDB
+
+Core.lua
+Themes.lua
+Parser.lua
+LootFrame.lua
+RollFrame.lua
+RollFrameClassic.lua
+WinFX.lua
+History.lua
+HistoryUI.lua
+TestMode.lua
+Options.lua
