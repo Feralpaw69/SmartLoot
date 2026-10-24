@@ -4,6 +4,12 @@
 
 Replaces the Blizzard loot window and the need/greed roll frames with a cleaner, movable design – plus a loot history for every raid and dungeon.
 
+## Screenshots
+
+![SmartLoot loot rolls](Screenshots/loot-rolls.png)
+
+![SmartLoot loot history](Screenshots/loot-history.png)
+
 ## Features
 - Movable loot window, works fully without ElvUI
 - Restyled roll bars (Need / Greed / Disenchant / Pass)
