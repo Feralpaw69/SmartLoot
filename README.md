@@ -16,6 +16,7 @@ Replaces the Blizzard loot window and the need/greed roll frames with a cleaner,
 - Colour themes
 - Loot history per instance: every roll and every winner
 - Test mode to preview the frames
+- annoucement "You won" with nice visual and sound
 - Options under *Esc → Interface → AddOns → SmartLoot*
 
 ## Commands
